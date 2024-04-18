@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "4ae9ce3a3e4524f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "674dbbadac091611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8df9ce394b15b42d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Classes/Character Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "650a7dc842ca7294",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ffbe726d1e5dec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "804a3278a103ade0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eedc8c7be887d8c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Encumbrance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "029abbb25660023f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "cfa6257d0c86eb35",
+    "type": "split",
+    "children": [
+      {
+        "id": "834efce68a47df72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38314394f4f1493",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vault/Classes/Character Classes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "491b457f633bc121",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vault/Classes/Character Classes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "511bc96f97894bec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3af9e38c7f6e0bab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault/Classes/Character Classes.md"
+              }
+            }
+          },
+          {
+            "id": "b4123cdc27b0a506",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8df9ce394b15b42d",
+  "lastOpenFiles": [
+    "Vault/Classes/Ranger.md",
+    "Vault/Classes/Character Classes.md",
+    "Vault/Classes/Paladin.md",
+    "Vault/Classes/Illusionist.md",
+    "Vault/Classes/Druid.md",
+    "Vault/Classes/Cleric.md",
+    "Vault/Classes/Barbarian.md",
+    "Vault/Classes/Assassin.md",
+    "Vault/Classes/Acrobat.md",
+    "Vault/Adventures/Time, Weight, Movement.md",
+    "Vault/Classes/Bard.md",
+    "Vault/Characters/Player Characters.md",
+    "Vault/Characters/Languages.md",
+    "Vault/Characters/Game Statistics.md",
+    "Vault/Characters/Alignment.md",
+    "Vault/Characters/Creating a Character.md",
+    "Vault/Adventures/Combat.md",
+    "Vault/Adventures/Combat Tables.md",
+    "Vault/Characters/Advancement.md",
+    "Vault/Running Adventures/Awarding XP.md",
+    "Vault/Characters/Ability Scores.md",
+    "Vault/Adventures/Damage, Healing and Death.md",
+    "Vault/Adventures/Checks, Damage, Saves.md",
+    "Vault/Adventures/Ability Checks.md",
+    "Vault/Adventures/Wilderness Adventuring.md",
+    "Vault/Adventures/Waterborne Adventuring.md",
+    "Navagation",
+    "Vault",
+    "Vault/Classes/Dimihuman Classes (Not Used)",
+    "Bard.PNG",
+    "Pasted image 20240415111812.png",
+    "Non_Magic_Chart.htm",
+    "Non Magic Chart.htm",
+    "OSE.Logo.White.png",
+    "OSE.Logo.Black.png",
+    "Open",
+    "11. Atchments",
+    "Fighter 2.webp",
+    "Druid Raise dead 1.jpg",
+    "Druid Raise dead.jpg",
+    "Vault/Templates",
+    "Vault/Magic/Rules of Magic",
+    "Vault/Magic/Spell Lists"
+  ]
+}
