@@ -13,7 +13,7 @@ Arcane spell casters begin with as many spells in their spell book as they can m
 When the number of spells an arcane spellcaster can memorize increases (e.g., by gaining an experience level), they can increase the selection of spells in their spell book. In this way, the number of spells in the spell book may be brought in line with the number of spells the character can memorize. This is possible in two ways:
 
 - **Mentoring:** The character may consult an arcane guild or mentor to learn new spells. This process takes about a week of game time. The spells a character learns in this way are determined by the referee, who may decide to let the player choose.
-- **Research:** It is also possible to add spells to a spell book using ***Magical Research***.
+- **Research:** It is also possible to add spells to a spell book using ***[[Magical Research]]***.
 
 ## Lost Spell Books
 

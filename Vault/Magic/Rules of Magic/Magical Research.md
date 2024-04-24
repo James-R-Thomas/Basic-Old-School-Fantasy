@@ -1,6 +1,6 @@
 # Magical Research
 
-Many spell-casting character classes can also perform research into new spells, magic items, and other magical effects, as noted in the class description. This requires time, monetary outlay, and sometimes rare and unusual ingredients.
+Many spell-casting [[Character Classes]] can also perform research into new [[Spells]], magic items, and other magical effects, as noted in the class description. This requires time, monetary outlay, and sometimes rare and unusual ingredients.
 
 ## Chance of Failure
 
@@ -38,7 +38,7 @@ Creating magic items often requires rare components such as expensive gems or bo
 
 **Multi-use items:** If the item created can replicate a spell effect multiple times (for example, a wand with charges), the cost in time and money is multiplied by the number of uses.
 
-**Other items:** The referee must judge the requirements for creating items that do not recreate the effects of a spell. More powerful items should require more time, money, and special materials or quests. Some examples: 20 arrows +1 (10,000 gp, one month), plate mail +1 (10,000 gp, six months), crystal ball (30,000 gp, six months), ring of x-ray vision (100,000 gp, one year).
+**Other items:** The referee must judge the requirements for creating items that do not recreate the effects of a spell. More powerful items should require more time, money, and special materials or quests. Some examples: 20 arrows +1 (10,000 gp, one month), plate mail +1 (10,000 gp, six months), [[Crystal Ball]] (30,000 gp, six months), [[Ring of X-Ray Vision]] (100,000 gp, one year).
 
 ## Other Magical Research
 

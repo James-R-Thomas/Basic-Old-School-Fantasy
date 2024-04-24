@@ -18,9 +18,9 @@ The appropriate saving throw and the effects of success or failure are indicated
 
 ## Saving Throw Tables
 
-**Characters:** Each character class has its table denoting the saving throw values of characters of each experience level.
+**[[Characters]]:** Each character class has its table denoting the saving throw values of characters of each experience level.
 
-**Monsters:** Most monsters use the saving throw table under [[Combat Tables]]. Some monsters’ descriptions may note that they use the table for a specific character class.
+**[[Monsters]]:** Most monsters use the saving throw table under [[Combat Tables]]. Some monsters’ descriptions may note that they use the table for a specific character class.
 
 ## Rolling a Saving Throw
 

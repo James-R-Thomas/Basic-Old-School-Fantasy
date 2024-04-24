@@ -23,7 +23,7 @@ Brawn, muscle power, and physical might.
 
 Learning, memory, and reasoning.
 
-- **Spoken languages:** Denotes the number of languages the character can speak.
+- **Spoken languages:** Denotes the number of [[languages]] the character can speak.
 - **Literacy:** Indicates the character’s ability to read and write their native languages.
 
 |  INT  | Spoken Languages       | Literacy   |
@@ -90,7 +90,7 @@ Health, stamina, and endurance.
 
 Leadership potential, personal magnetism, and physical appearance.
 
-- **NPC reactions:** Applies when hiring retainers and when interacting with monsters.
+- **NPC reactions:** Applies when hiring [[retainers]] and when interacting with monsters.
 - **Max # of retainers:** Determines the number of retainers a character may have at any time.
 - **Retainer loyalty:** Determines retainers’ loyalty to the character.
 

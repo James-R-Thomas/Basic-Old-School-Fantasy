@@ -15,7 +15,7 @@ Roll 1d8 and 1d12:
 
 **Lost World:** In Lost World or prehistoric settings, any Animal result may be rolled on the ***Prehistoric Animal*** table in sub-table 2.
 
-**NPC adventurers:** Encounters with NPC adventuring parties are listed in the tables as “Basic Adventurers,” “Expert Adventurers,” “High-Level Cleric,” “High-Level Fighter,” or “High-Level Magic-User.” Guidelines for generating NPC adventurers can be found under ***Adventuring Parties***.
+**NPC adventurers:** Encounters with NPC adventuring parties are listed in the tables as “Basic Adventurers,” “Expert Adventurers,” “High-Level [[Cleric]],” “High-Level [[Fighter]],” or “High-Level [[Magic-User]].” Guidelines for generating NPC adventurers can be found under ***[[Adventuring Parties]]***.
 
 ## Wilderness Encounter By Terrain
 
@@ -215,15 +215,15 @@ Roll 1d8 and 1d12:
 
 | d12  | Human                                                        | Humanoid                                                     | Swimmer                                                      |
 | :--: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|  1   | Basic Adventurers | Gnoll | Crab, Giant |
-|  2   | Bandit | Goblin | Crocodile |
-|  3   | Bandit | Hobgoblin | Crocodile, Large |
-|  4   | Berserker | Lizard Man | Crocodile, Giant |
-|  5   | Brigand | Lizard Man | Fish, Catfish |
-|  6   | Expert Adventurers | Lizard Man | Insect Swarm |
-|  7   | Expert Adventurers | Nixie | Insect Swarm |
-|  8   | High-Level Cleric | Ogre | Leech, Giant |
-|  9   | High-Level Fighter | Orc | Leech, Giant |
-|  10  | High-Level Magic-User | Troglodyte | Lizard Man |
-|  11  | Merchant | Troll | Lizard Man |
-|  12  | Trader | Troll | Termite, Water |
+|  1   | Basic Adventurers | [[Gnoll]] | [[Crab, Giant]] |
+|  2   | [[Bandit]] | [[Goblin]] | Crocodile |
+|  3   | [[Bandit]] | [[Hobgoblin]] | [[Crocodile, Large]] |
+|  4   | [[Berserker]] | Lizard Man | [[Crocodile, Giant]] |
+|  5   | Brigand | [[Lizard Man]] | Fish, Catfish |
+|  6   | Expert Adventurers | [[Lizard Man]] | [[Insect Swarm]] |
+|  7   | Expert Adventurers | [[Nixie]] | [[Insect Swarm]] |
+|  8   | High-Level [[Cleric]] | [[Ogre]] | [[Leech, Giant]] |
+|  9   | High-Level [[Fighter]] | [[Orc]] | [[Leech, Giant]] |
+|  10  | High-Level [[Magic-User]] | Troglodyte | [[Lizard Man]] |
+|  11  | [[Merchant]] | [[Troll]] | [[Lizard Man]] |
+|  12  | [[Trader]] | [[Troll]] | Termite, Water |

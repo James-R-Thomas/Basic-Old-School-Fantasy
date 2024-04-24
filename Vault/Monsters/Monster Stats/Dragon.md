@@ -55,6 +55,28 @@ Dwell in swamps and marshes.
 - **Language and spells:** 20%; 4 × 1st level.
 - **Sleeping:** 40%.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Blue Dragon
 
 Favor open plains and deserts.
@@ -83,6 +105,27 @@ Favor open plains and deserts.
 - **Breath weapon:** 100’ long line of lightning.
 - **Language and spells:** 40%; 4 × 1st level, 4 × 2nd level.
 - **Sleeping:** 20%.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Gold Dragon
 
@@ -114,6 +157,23 @@ May be encountered in any terrain, often in the guise of a person or animal.
 - **Sleeping:** 5%.
 - **Shape changing:** May take on the form of a person or animal.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Green Dragon
 
 Lair in jungles and forests.
@@ -142,6 +202,26 @@ Lair in jungles and forests.
 - **Breath weapon:** Cloud of chlorine gas.
 - **Language and spells:** 30%; 3 × 1st level, 3 × 2nd level.
 - **Sleeping:** 30%.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Red Dragon
 
@@ -172,6 +252,27 @@ Dwell in hills and mountains.
 - **Language and spells:** 50%; 3 × 1st level, 3 × 2nd level, 3 × 3rd level.
 - **Sleeping:** 10%.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Sea Dragon
 
 Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew.
@@ -201,6 +302,23 @@ Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish 
 - **Language and spells:** 20%; 3 × 1st level, 3 × 2nd level.
 - **Sleeping:** 30%.
 - **Gliding:** Leap out of the water and glide for up to 6 rounds.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## White Dragon
 

@@ -44,7 +44,7 @@ Mercenaries (see [[Mercenaries]]) have a morale rating and check morale exactly 
 | Troop Type           | Morale |
 | :------------------- | :----: |
 | Untrained, militia   |   6    |
-| Barbarian horde      |   7    |
+| [[Barbarian]] horde      |   7    |
 | Trained warriors     |   8    |
 | Mounted              |   +1   |
 | Elite troops         |   +1   |
@@ -52,4 +52,4 @@ Mercenaries (see [[Mercenaries]]) have a morale rating and check morale exactly 
 
 ## Retainer Morale
 
-Retainers signed up to work as adventurers, so are not frightened off at the first sign of danger. Retainers do not make morale checks in combat, but a loyalty check may be required in extreme peril (see [[Retainers]]).
+Retainers signed up to work as adventurers, so are not frightened off at the first sign of danger. [[Retainers]] do not make morale checks in combat, but a loyalty check may be required in extreme peril (see [[Retainers]]).

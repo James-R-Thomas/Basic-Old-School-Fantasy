@@ -47,7 +47,7 @@ Characters that wish to subdue an intelligent opponent may declare the intent to
 
 ## Unarmed Attacks
 
-**Attack rolls:** Unarmed combat is handled the same as melee combat.
+**Attack rolls:** Unarmed [[Combat]] is handled the same as melee combat.
 
 **Damage:** Unarmed attacks inflict 1d2 damage, modified by STR.
 
@@ -56,10 +56,10 @@ Characters that wish to subdue an intelligent opponent may declare the intent to
 Characters on an unstable surface, such as a ship in rough seas or riding a flying animal, are affected as follows:
 
 - **Missile attacks:** Suffer a -4 penalty.
-- **Spells:** Cannot be cast.
+- **[[Spells]]:** Cannot be cast.
 - **Magic items:** Can be used normally.
 
-Note that magical means of flight (e.g., a broom of flying, flying carpet, *fly* spell) generally do not count as unstable.
+Note that magical means of flight (e.g., a [[Broom of Flying]], [[Flying Carpet]], *[[Fly]]* spell) generally do not count as unstable.
 
 ## Water
 

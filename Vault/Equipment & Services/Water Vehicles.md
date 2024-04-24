@@ -140,7 +140,7 @@ The following modifications may be made to an existing ship:
 
 It can be used against ships or giant sea monsters. Small individuals cannot be targeted.
 
-**Attack rolls:** These are made using a THAC0 of 19 [0], occurring simultaneously in the combat sequence as missile fire.
+**Attack rolls:** These are made using a THAC0 of 19 [0], occurring simultaneously in the [[Combat]] sequence as missile fire.
 
 **Attack modifiers:** May be applied for weather conditions, maneuverability, etc.
 

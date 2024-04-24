@@ -1,6 +1,6 @@
 # Ability Checks
 
-The referee may use a character’s ability scores to determine the character’s chance of succeeding at various challenging tasks.
+The referee may use a character’s [[Ability Scores]] to determine the character’s chance of succeeding at various challenging tasks.
 
 ## Rolling an Ability Check
 

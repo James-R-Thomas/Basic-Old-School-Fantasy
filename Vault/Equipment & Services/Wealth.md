@@ -30,4 +30,4 @@ Faced with the possibility of character death, players may wish to create a will
 
 When characters have amassed sufficient wealth, they often wish to construct a base or stronghold and possibly find a domain.
 
-See ***Strongholds*** for complete rules on building a stronghold and founding a domain.
+See ***[[Strongholds]]*** for complete rules on building a stronghold and founding a domain.

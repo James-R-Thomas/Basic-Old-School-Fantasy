@@ -1,8 +1,8 @@
-# Retainers
+# Retainers / Hirelings
 
 Retainers are NPCs hired to accompany a character on adventures.
 
-**Limit per PC:** A character’s Charisma score defines the maximum number of retainers that will work for them at any one time (see ***Ability Scores***).
+**Limit per PC:** A character’s Charisma score defines the maximum number of retainers that will work for them at any one time (see ***[[Ability Scores]]***).
 
 **Duties:** Retainers are expected to share the risks of adventuring with the party but will only continue working for a PC if treated well. A disgruntled retainer may spread the word to others in the area, making hiring other retainers more difficult for the PC.
 
@@ -29,7 +29,7 @@ Retainers usually want a guaranteed fee (per day or adventure) and a share of tr
 
 ### Upkeep
 
-The hiring PC must also pay for the retainer’s daily upkeep (food and lodgings) and any new adventuring gear, weapons, or mounts the retainer requires.
+The hiring PC must also pay for the retainer’s daily upkeep (food and lodgings) and any new [[Adventuring Gear]], weapons, or [[Mounts]] the retainer requires.
 
 ### Shares of Treasure
 
@@ -39,7 +39,7 @@ Fractional treasure shares are calculated by dividing the treasure by the total 
 
 Once an offer is made, the referee determines the potential retainer’s reaction by rolling 2d6 on the table below, modified as follows:
 
-- **Charisma:** The roll is modified by the hiring character’s NPC reactions modifier due to CHA (see ***Ability Scores.
+- **Charisma:** The roll is modified by the hiring character’s NPC reactions modifier due to CHA (see ***[[Ability Scores]].
 - **Generosity:** The referee may apply a bonus or penalty, depending on the attractiveness of the deal (+1 or +2 for generous offers, -1 or -2 for poor offers).
 - **Reputation:** A penalty of -1 or -2 may be applied if the hiring PC has a bad reputation.
 
@@ -59,11 +59,11 @@ Retainers gain experience and advance in level in the same way as PCs.
 
 **XP penalty:** Because retainers are generally not directly involved in decision-making, instead following instructions from PCs, the XP they receive is penalized by –50%.
 
-**Normal humans:** When a normal human (i.e., a retainer of level 0 with no character class) gains XP, they must choose an adventuring character class.
+**Normal humans:** When a [[Normal Human]] (i.e., a retainer of level 0 with no character class) gains XP, they must choose an adventuring character class.
 
 ## Loyalty
 
-A retainer’s loyalty rating reflects their willingness to stick by PCs in the face of danger. The hiring character’s CHA determines loyalty (see ***Ability Scores***) but may be adjusted as follows:
+A retainer’s loyalty rating reflects their willingness to stick by PCs in the face of danger. The hiring character’s CHA determines loyalty (see ***[[Ability Scores]]***) but may be adjusted as follows:
 
 - **Bonuses:** Saving a retainer from danger or granting generous treasure rewards may increase loyalty.
 - **Penalties:** Ill-treatment of a retainer or lack of treasure may decrease loyalty.

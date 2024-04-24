@@ -16,7 +16,7 @@ The speed at which the vehicle can move. Every vehicle has a '**base movement ra
 
 ### Cargo Capacity
 
-The maximum load the vehicle can carry; measured in coins (see ***Time, Weight, Movement***).
+The maximum load the vehicle can carry; measured in coins (see ***[[Time, Weight, Movement]]***).
 
 ### Required Crew
 
@@ -24,7 +24,7 @@ The number of people or animals (e.g., sailors, oarsmen, horses required for the
 
 ### Passengers or Mercenaries
 
-Some vehicles have extra space aboard explicitly intended to carry passengers or mercenaries of any type (see ***Mercenaries***) and the normal crew. Suppose a vehicle’s description does not mention this space for passengers. In that case, it is assumed only to have space for the crew—the referee may rule that cargo hold space could be converted into additional living quarters.
+Some vehicles have extra space aboard explicitly intended to carry passengers or [[Mercenaries]] of any type (see ***[[Mercenaries]]***) and the normal crew. Suppose a vehicle’s description does not mention this space for passengers. In that case, it is assumed only to have space for the crew—the referee may rule that cargo hold space could be converted into additional living quarters.
 
 ### Seaworthiness
 
@@ -38,9 +38,9 @@ In combat, attacks and damage may be directed at vehicles, characters, and monst
 
 **Magical attacks:** Damaging spells or magical attacks inflict one point of hull damage per five points of normal hit point damage the attack does.
 
-**Giant monsters:** Can damage vehicles, inflicting one point of hull damage per five points of normal hit-point damage the attack does.
+**[[Monsters|Giant Monsters]]:** Can damage vehicles, inflicting one point of hull damage per five points of normal hit-point damage the attack does.
 
-**Mounted weaponry:** Some vehicles carry mounted weaponry specifically designed for vehicle-to-vehicle combat. Such weapons inflict hull damage directly. The rules for attacking with ship-mounted weapons are described in ***Water Vessels***.
+**Mounted weaponry:** Some vehicles carry mounted weaponry specifically designed for vehicle-to-vehicle combat. Such weapons inflict hull damage directly. The rules for attacking with ship-mounted weapons are described in ***[[Water Vehicles]]***.
 
 ## Effects of Hull Damage
 

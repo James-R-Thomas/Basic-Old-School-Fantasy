@@ -43,7 +43,7 @@
 
 **Reload (optional rule):** Requires a round to reload between shots; can only be fired every second round.
 
-**Slow:** The character acts last in each combat round (see ***Combat***).
+**Slow:** The character acts last in each combat round (see ***[[Combat]]***).
 
 **Splash weapon:** On a successful attack, the container smashes and douses the target with the liquid. The listed damage is inflicted for two rounds, as the liquid drips off.
 
@@ -69,7 +69,7 @@
 
 ## Encumbrance (Optional Rule)
 
-If the optional rules for encumbrance are used (see ***Encumbrance***), armor and weapons carried are treated as follows.
+If the optional rules for encumbrance are used (see ***[[Encumbrance]]***), armor and weapons carried are treated as follows.
 
 ### Option 1: Basic Encumbrance
 

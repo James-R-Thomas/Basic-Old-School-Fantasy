@@ -1,8 +1,8 @@
 # Potion of Heroism
 
-Normal humans and characters of a combat-focused, non-magic-using class (e.g., dwarf, fighter, halfling who drinks a *potion of heroism*) temporarily gain additional levels. The number of levels gained depends on the character’s normal experience level:
+Normal humans and Characters of a Combat-focused, non-Magic-using class (e.g., Dwarf, Fighter, who drinks a *potion of heroism*) temporarily gain additional levels. The number of levels gained depends on the character’s normal experience level:
 
-- **Normal human:** Gain the abilities of a 4th-level fighter.
+- **[[Normal Human]]:** Gain the abilities of a 4th-level [[Fighter]].
 - **1st–3rd level:** Gain 3 levels.
 - **4th–7th level:** Gain 2 levels.
 - **8th–10th level:** Gain 1 level.

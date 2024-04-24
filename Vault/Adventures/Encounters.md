@@ -24,7 +24,7 @@ Characters or monsters that carry a light in a dark environment usually cannot s
 
 Each side that is unaware of the other’s presence rolls 1d6.
 
-**Monsters:** The referee rolls for monsters.
+**[[Monsters]]:** The referee rolls for monsters.
 
 **PCs:** One player rolls for the adventuring party as a whole.
 
@@ -78,7 +78,7 @@ The referee determines the monsters’ reaction to the party. Sometimes, circums
 
 Any action is possible in an encounter, but the following are common:
 
-- **Combat:** If one side attacks, casts spells, or makes tactical movements, begin tracking time in rounds, following the combat procedure (see [[Combat]]).
+- **[[Combat]]:** If one side attacks, casts spells, or makes tactical movements, begin tracking time in rounds, following the combat procedure (see [[Combat]]).
 - **Evasion:** If one side decides to flee, the other may choose to pursue (see [[Evasion and Pursuit]]).
 - **Parley:** PCs may attempt to communicate with monsters. Opening an encounter in this way can influence the monsters’ behavior (see ***Monster Actions*** above). If both sides decide to talk, the negotiation may be role-played.
 
@@ -92,7 +92,7 @@ Any action is possible in an encounter, but the following are common:
 
 If one side wishes to avoid an encounter, it may attempt to flee. This is called ***evasion*** and is only possible ***before combat has begun***. When a side decides to try an evasion, the opposing side must decide whether or not to pursue it. Players May decide freely whether they wish to pursue fleeing monsters.
 
-**Monsters:** The referee must decide whether monsters pursue fleeing PCs. (A low roll on the Monster Reactions table may be taken to indicate that the monster will pursue.)
+**[[Monsters]]:** The referee must decide whether monsters pursue fleeing PCs. (A low roll on the Monster Reactions table may be taken to indicate that the monster will pursue.)
 
 **No pursuit:** If the opposing side decides to let the other side flee, the evasion automatically succeeds; the encounter is avoided.
 

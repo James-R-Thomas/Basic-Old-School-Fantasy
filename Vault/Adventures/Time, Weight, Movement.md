@@ -56,7 +56,7 @@ Encumbrance measures both the weight and bulk a character is carrying.
 
 **Treasure:** The encumbrance of treasure carried by a character should be tracked. The encumbrance of common items of treasure is shown in the table below. The referee should decide the weight of other forms of treasure.
 
-**Equipment:** Two options for tracking the encumbrance of characters’ equipment are presented below. The same system should be applied to all characters.
+**[[Equipment]]:** Two options for tracking the encumbrance of characters’ equipment are presented below. The same system should be applied to all characters.
 
 **Maximum load:** Any character can carry 1,600 coins of weight. Characters carrying more than this cannot move.
 

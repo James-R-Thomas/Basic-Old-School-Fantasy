@@ -63,11 +63,11 @@ Divine spell casters can cast the reversed version of a spell by speaking the wo
 
 ### Deity Disfavor
 
-Divine spell casters must be faithful to the tenets of their alignment, clergy, and religion. If the character ever falls from favor with their deity, penalties (determined by the referee) may be imposed. These may include penalties to attack (-1), a reduction in spells, or being sent on a perilous quest. To regain favor, the character must perform some great deed for their deity (as determined by the referee), for example, donating magic items or gold, constructing a temple, converting many people to the religion, defeating a powerful enemy of the deity, etc.
+Divine spell casters must be faithful to the tenets of their [[Alignment]], clergy, and religion. If the character ever falls from favor with their deity, penalties (determined by the referee) may be imposed. These may include penalties to attack (-1), a reduction in spells, or being sent on a perilous quest. To regain favor, the character must perform some great deed for their deity (as determined by the referee), for example, donating magic items or gold, constructing a temple, converting many people to the religion, defeating a powerful enemy of the deity, etc.
 
 ### Spells and Deity Alignment
 
-A divine spellcaster may draw disfavor from their deity when casting spells (or their reversed versions) whose effects go against the deity’s alignment:
+A divine spellcaster may draw disfavor from their deity when casting spells (or their reversed versions) whose effects go against the deity’s [[Alignment]]:
 
 - **Lawful characters:** Will only use reversed spells in dire circumstances.
 - **Chaotic characters:** Will usually use reversed spells, only using the normal versions of spells to benefit allies of their religion.

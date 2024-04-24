@@ -8,7 +8,7 @@ When PCs wish to construct strongholds or any other type of building, the follow
 2. **Clear land:** If the construction site is in the wilderness, all monsters in a 6-mile area (i.e., one hex on a typical small-scale wilderness map) must be killed or driven off.
 3. **Design:** The player creates a plan for the stronghold and calculates the costs (see construction prices in ***Structures***.
 4. **Review:** The referee should review and approve the player’s plans.
-5. **Hire engineers:** For every 100,000gp cost of the stronghold, the PC must hire one engineer (see ***Specialists***).
+5. **Hire engineers:** For every 100,000gp cost of the stronghold, the PC must hire one engineer (see ***[[Specialists]]***).
 6. **Construction:** Construction may commence once the land has been cleared and construction materials delivered. The time required depends entirely on the stronghold’s total price: one day of game time per 500 gp.
 7. **Prepare for settlers:** If the PC wishes to find a dominion and attract settlers, a wider area around the stronghold should be cleared of dangers.
 
@@ -26,7 +26,7 @@ When PCs wish to construct strongholds or any other type of building, the follow
 
 ## Maintaining Cleared Lands
 
-Mercenaries may be hired to conduct patrols to prevent monsters from returning to cleared lands. These patrols can cover a maximum radius of 18 miles around a stronghold (6 miles in inhospitable terrain such as swamps, mountains, or thick jungle). If the area to be maintained is larger, additional garrisons must be stationed at intervals.
+[[Mercenaries]] may be hired to conduct patrols to prevent monsters from returning to cleared lands. These patrols can cover a maximum radius of 18 miles around a stronghold (6 miles in inhospitable terrain such as swamps, mountains, or thick jungle). If the area to be maintained is larger, additional garrisons must be stationed at intervals.
 
 ## Settlers
 

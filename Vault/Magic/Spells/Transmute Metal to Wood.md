@@ -8,4 +8,4 @@ The spell affects a circular area with a diameter of 10’ per caster level. All
 
 Weapons converted from metal to wood take a -2 penalty on attack and damage rolls. The armor class of any armor converted from metal to wood is reduced by 2. Weapons changed by this spell splinter and break on any natural attack roll of 1 or 2, and armor changed by this spell loses an additional point of armor class every time it is struck with a natural attack roll of 19 or 20.
 
-Only a [[wish]] can restore a transmuted object to its metallic state.
+Only a [[Magic Items (General)#Wishes|wish]] can restore a transmuted object to its metallic state.

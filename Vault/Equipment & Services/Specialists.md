@@ -1,6 +1,6 @@
 # Specialists
 
-PCs may wish to hire all types of characters for non-combat and non-adventuring purposes (i.e., not mercenaries or retainers) and are termed ***specialists***.
+PCs may wish to hire all types of characters for non-combat and non-adventuring purposes (i.e., not mercenaries or [[Retainers]]) and are termed ***specialists***.
 
 Note that specialists are hired to perform non-adventuring services and are not treated as retainers. Unlike retainers, there is no limit on the number of specialists a character may employ.
 
@@ -31,7 +31,7 @@ The monthly rate of pay includes food and essential gear.
 
 ## Alchemist
 
-**Recreating potions:** Based on a sample or recipe, an alchemist can produce a potion at twice the normal speed and for half the normal cost (see ***Magical Research***).
+**Recreating potions:** Based on a sample or recipe, an alchemist can produce a potion at twice the normal speed and for half the normal cost (see ***[[Magical Research]]***).
 
 **Researching potions:** An alchemist may also research new potions, but this takes twice as long and costs twice as much as normal.
 
@@ -51,21 +51,21 @@ Trainers are required for exotic creatures or larger numbers of common animals (
 
 **Producing weapons and armor:** An armorer can produce five weapons, three shields, or one suit of armor per month.
 
-**Maintaining mercenaries’ gear:** A dedicated armorer is required per 50 troops.
+**Maintaining [[Mercenaries]]’ gear:** A dedicated armorer is required per 50 troops.
 
 **Assistants:** An armorer’s output (either in arms produced or troops maintained) may be doubled by hiring two ***assistant armorers*** and one ***blacksmith***. The armorer's production may be quadrupled if four assistants and two blacksmiths are hired. An armorer cannot coordinate more assistants than this.
 
 ## Assistant Armorer
 
-Apprentices who may work under an armorer to increase the production rate (see ***Armorer***).
+Apprentices who may work under an armorer to increase the production rate (see ***Armorer*** above).
 
 ## Blacksmith
 
-Craftsmen trained in the art of forging metal. Blacksmiths may be hired to work under an armorer to increase the rate of production (see ***Armorer***).
+Craftsmen trained in the art of forging metal. Blacksmiths may be hired to work under an armorer to increase the rate of production (see ***Armorer*** above).
 
 ## Engineer
 
-Engineers are experts in planning and managing construction projects, for example, building strongholds (see ***Construction***).
+Engineers are experts in planning and managing construction projects, for example, building strongholds (see ***[[Strongholds#Construction|Construction]]***).
 
 **Number required:** One engineer is needed per 100,000 gp cost of the project.
 
@@ -73,7 +73,7 @@ Engineers are experts in planning and managing construction projects, for exampl
 
 ## Navigator
 
-Experts in navigating the high seas. A ship that travels beyond sight of land becomes lost if a navigator is not aboard (see ***Waterborne Adventuring***).
+Experts in navigating the high seas. A ship that travels beyond sight of land becomes lost if a navigator is not aboard (see ***[[Waterborne Adventuring]]***).
 
 ## Oarsman
 

@@ -5,7 +5,7 @@
 1. **Declare:** Spells and melee movement.
 2. **Initiative:** Each player rolls 1d6.
 3. **Winning side acts:**
-   1. Monster morale
+   1. Monster [[Morale]]
    2. Movement
    3. Missile attacks
    4. Spell casting
@@ -26,7 +26,7 @@ Players must inform the referee if they intend to ***cast a spell*** or ***move 
 
 ### Slow Weapons
 
-Combatants attacking with two-handed melee weapons (and some missile weapons—as indicated in the equipment description) always act last in the round, as if they had lost initiative.
+Combatants attacking with two-handed melee weapons (and some missile weapons—as indicated in the [[Equipment]] description) always act last in the round, as if they had lost initiative.
 
 ### Individual Initiative (Optional Rule)
 
@@ -57,7 +57,7 @@ Possible when opponents are more than 5’ from one another (see ***Attacking***
 
 ### Range Modifiers
 
-All missile weapons have ranges noted in the equipment lists.
+All missile weapons have ranges noted in the [[Equipment]] lists.
 
 **Short range:** +1 bonus to attack rolls.
 
@@ -101,7 +101,7 @@ Repeat steps 3.1 to 3.5 for each side, in order of initiative (highest first).
 
 1. **Roll 1d20**
 2. **Apply modifiers:** STR for melee; DEX, range, cover for missile attacks.
-3. **Determine hit AC:** Look up the result in the attack matrix row for the attacker’s THAC0 (see ***Combat Tables***). This column is the AC score that the attack hits.
+3. **Determine hit AC:** Look up the result in the attack matrix row for the attacker’s THAC0 (see ***[[Combat Tables]]***). This column is the AC score that the attack hits.
 4. **Result:** If the hit AC is equal to or lower than the opponent’s AC, the attack hits. Referee rolls for damage.
 
 ### Ascending Armor Class (Optional Rule)
@@ -141,4 +141,4 @@ Movement and attacking may be combined in the same round.
 
 ### Variable Weapon Damage (Optional Rule)
 
-Some groups may prefer different weapons to inflict different amounts of damage. In this case, PC attacks inflict the damage indicated for the weapon in the equipment lists.
+Some groups may prefer different weapons to inflict different amounts of damage. In this case, PC attacks inflict the damage indicated for the weapon in the [[Equipment]] lists.

@@ -18,7 +18,7 @@ The open spaces of the wilderness mean that characters and monsters can move mor
 
 ## Flying
 
-**Miles per day:** The distance a creature can fly in a day is double the distance it can travel overland (see [[Overland Travel]]). For example, a creature with a movement rate of 120’ could travel 24 miles overland but could fly 48 miles in a day.
+**Miles per day:** The distance a creature can fly in a day is double the distance it can travel overland (see **Overland Travel** below). For example, a creature with a movement rate of 120’ could travel 24 miles overland but could fly 48 miles in a day.
 
 **Terrain:** Does not affect air travel.
 
@@ -33,11 +33,11 @@ In general, a winged beast may carry riders or other burdens based on its HD:
 
 ## Foraging
 
-Foraging for herbs, fruits, nuts, etc., can be performed alongside normal movement (see [[Overland Travel]]). The party has a 1-in-6 chance per day of finding enough food for 1d6 human-sized beings.
+Foraging for herbs, fruits, nuts, etc., can be performed alongside normal movement (see **Overland Travel** below). The party has a 1-in-6 chance per day of finding enough food for 1d6 human-sized beings.
 
 ## Hunting
 
-Hunting animals takes up a complete day, with no traveling or resting possible. When hunting, there is a 1-in-6 chance of encountering animals suitable for eating (if they can be caught!). This is in addition to the normal chance of random encounters (see [[Wandering Monsters]]).
+Hunting animals takes up a complete day, with no traveling or resting possible. When hunting, there is a 1-in-6 chance of encountering animals suitable for eating (if they can be caught!). This is in addition to the normal chance of random encounters (see [[Dungeon Adventuring#Wandering Monsters|Wandering Monsters]]).
 
 ## Losing Direction
 
@@ -89,7 +89,7 @@ Characters can usually see for three miles around them in open terrain. This ran
 
 **Chance:** The chance of encountering a wandering monster depends on the explored terrain (see below).
 
-**Distance:** Wandering monsters are encountered 4d6 × 10 yards away. If either side is surprised (see ***Encounters***), this is reduced to 1d4 × 10 yards.
+**Distance:** Wandering monsters are encountered 4d6 × 10 yards away. If either side is surprised (see [[Encounters]]), this is reduced to 1d4 × 10 yards.
 
 ##### Chance by Terrain
 

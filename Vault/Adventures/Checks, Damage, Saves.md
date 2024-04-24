@@ -6,7 +6,7 @@ See [[Ability Checks]].
 
 ## Damage, Healing, and Death
 
-See [[Damage, Healing, and Death]].
+See [[Damage, Healing and Death]].
 
 ## Saving Throws
 

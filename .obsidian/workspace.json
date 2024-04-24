@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "674dbbadac091611",
+        "id": "3445b506c55f59da",
         "type": "tabs",
         "children": [
           {
-            "id": "8df9ce394b15b42d",
+            "id": "fbfc675a41d2079f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Classes/Character Classes.md",
+                "file": "Vault/Magic/Spells/Slow Poison.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Encumbrance",
+                "query": "rings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Classes/Character Classes.md",
+                "file": "Vault/Magic/Spells/Slow Poison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Classes/Character Classes.md",
+                "file": "Vault/Magic/Spells/Slow Poison.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Classes/Character Classes.md"
+                "file": "Vault/Magic/Spells/Slow Poison.md"
               }
             }
           },
@@ -153,37 +153,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8df9ce394b15b42d",
+  "active": "804a3278a103ade0",
   "lastOpenFiles": [
-    "Vault/Classes/Ranger.md",
-    "Vault/Classes/Character Classes.md",
-    "Vault/Classes/Paladin.md",
-    "Vault/Classes/Illusionist.md",
-    "Vault/Classes/Druid.md",
-    "Vault/Classes/Cleric.md",
-    "Vault/Classes/Barbarian.md",
-    "Vault/Classes/Assassin.md",
-    "Vault/Classes/Acrobat.md",
-    "Vault/Adventures/Time, Weight, Movement.md",
-    "Vault/Classes/Bard.md",
-    "Vault/Characters/Player Characters.md",
-    "Vault/Characters/Languages.md",
-    "Vault/Characters/Game Statistics.md",
-    "Vault/Characters/Alignment.md",
-    "Vault/Characters/Creating a Character.md",
-    "Vault/Adventures/Combat.md",
-    "Vault/Adventures/Combat Tables.md",
-    "Vault/Characters/Advancement.md",
-    "Vault/Running Adventures/Awarding XP.md",
-    "Vault/Characters/Ability Scores.md",
-    "Vault/Adventures/Damage, Healing and Death.md",
-    "Vault/Adventures/Checks, Damage, Saves.md",
-    "Vault/Adventures/Ability Checks.md",
-    "Vault/Adventures/Wilderness Adventuring.md",
-    "Vault/Adventures/Waterborne Adventuring.md",
+    "README.md",
+    "Vault/Magic/Spells/Slow Poison.md",
+    "Vault/Treasures/Weapons.md",
+    "Vault/Treasures/Treasure Types.md",
+    "Vault/Treasures/Swords.md",
+    "Vault/Treasures/Special Purpose of Sentient Swords.md",
+    "Vault/Treasures/Sentient Swords.md",
+    "Vault/Treasures/Sensory Powers of Sentient Swords.md",
+    "Vault/Treasures/Scolls and Maps.md",
+    "Vault/Treasures/Rods, Staffs Wands.md",
+    "Vault/Treasures/Rods, Staves, Wands/Wand of Paralyzation.md",
+    "Vault/Treasures/Rings.md",
+    "Vault/Treasures/Potions.md",
+    "Vault/Treasures/Potions/Potion of Invisibility.md",
+    "Vault/Treasures/Potions/Potion of Control.md",
+    "Vault/Treasures/Placing Treasure.md",
+    "Vault/Treasures/Treasures.md",
+    "Vault/Treasures/Miscellaneous Items.md",
+    "Vault/Treasures/Magic Items (General).md",
+    "Vault/Treasures/Gems and Jewelry.md",
+    "Vault/Treasures/Extraordinary Power of Sentient Swords.md",
+    "Vault/Treasures/Armor and Shields.md",
+    "Vault/Treasures/Rods, Staves, Wands/Wand of trap Detection.md",
+    "Vault/Treasures/Rods, Staves, Wands/Wand of Secret Door Detection.md",
+    "Vault/Treasures/Rods, Staves, Wands/Wand of Polymorph.md",
+    "Vault/Treasures/Rods, Staves, Wands/Wand of Negation.md",
     "Navagation",
     "Vault",
     "Vault/Classes/Dimihuman Classes (Not Used)",

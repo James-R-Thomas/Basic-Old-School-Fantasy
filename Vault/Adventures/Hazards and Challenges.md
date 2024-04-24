@@ -14,7 +14,7 @@ Characters usually want to bring a light source with them on underground expedit
 
 ### Infravision
 
-All non-human monsters and many demihuman races have a special vision, allowing them to see in the dark. This is called infravision.
+All non-human monsters and many demihuman races have a special vision, allowing them to see in the dark. This is called [[Infravision]].
 
 **Heat tones:** Characters with infravision can see heat tones, with warm objects (such as living creatures) appearing bright, cold objects as black, and cool objects as grey.
 

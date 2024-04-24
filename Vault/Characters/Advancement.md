@@ -6,7 +6,7 @@ All characters who survive an adventure and return to safety gain experience poi
 
 ## Prime Requisite Modifiers
 
-Characters with especially low or high scores in their class’ prime requisites receive a bonus or penalty for XP earned (see [[Ability Scores]]). These modifiers are applied to the total XP gained by each character following an adventure.
+[[Characters]] with especially low or high scores in their class’ prime requisites receive a bonus or penalty for XP earned (see [[Ability Scores]]). These modifiers are applied to the total XP gained by each character following an adventure.
 
 ## Level Up
 
@@ -20,23 +20,29 @@ Characters can advance up to one level in one session. Any additional XP that wo
 
 In some campaigns, characters gain the right to bear specific titles as they advance in level. Such titles may be granted by the guilds, colleges, or temples that PCs are associates of. Level titles often vary significantly between campaign worlds, but the following lists may be used as inspiration:
 
-- **Cleric:** Acolyte, Adept, Priest(ess), Vicar, Curate, Elder, Bishop, Lama, Matriarch (Patriarch).
+- **[[Bard]]** Crier, Accompanist, Storyteller, Rhymer, Poet, Singer, Minstrel, Balladeer, Songsmith, Troubadour.
 
-- **Dwarf:** Dwarven Veteran, Dwarven Warrior, Dwarven Swordmaster, Dwarven Hero, Dwarven Swashbuckler, Dwarven Myrmidon, Dwarven Champion, Dwarven Superhero, Dwarven Lord (Lady).
+- **[[Cleric]]:** Acolyte, Adept, Priest(ess), Vicar, Curate, Elder, Bishop, Lama, Matriarch (Patriarch).
 
-- **Elf:** Medium/Veteran, Seer/Warrior, Conjurer/Swordmaster, Magician/Hero, Enchanter (Enchantress)/Swashbuckler, Warlock (Witch)/Myrmidon, Sorcerer (Sorceress)/Champion, Necromancer/Superhero, Wizard/Lord (Lady).
+- **[[Druid]]:** Initiate, Devotee, Beastling, Dreamer, Shifter, Herald, Grovelurker, Shaper, Springwalker, Elder Druid.
 
-- **Fighter:** Veteran, Warrior, Swordmaster, Hero, Swashbuckler, Myrmidon, Champion, Superhero, Lord (Lady).
+- **[[Dwarf]]:** Dwarven Veteran, Dwarven Warrior, Dwarven Swordmaster, Dwarven Hero, Dwarven Swashbuckler, Dwarven Myrmidon, Dwarven Champion, Dwarven Superhero, Dwarven Lord (Lady).
 
-- **Halfling:** Halfling Veteran, Halfling Warrior, Halfling Swordmaster, Halfling Hero, Halfling Swashbuckler, Halfling Myrmidon, Halfling Champion, Sheriff.
+- **[[Vault/Classes/Dimihuman Classes (Not Used)/Elf|Elf]]:** Medium/Veteran, Seer/Warrior, Conjurer/Swordmaster, Magician/Hero, Enchanter (Enchantress)/Swashbuckler, Warlock (Witch)/Myrmidon, Sorcerer (Sorceress)/Champion, Necromancer/Superhero, Wizard/Lord (Lady).
 
-- **Magic-user:** Medium, Seer, Conjurer, Magician, Enchanter (Enchantress), Warlock (Witch), Sorcerer (Sorceress), Necromancer, Wizard.
+- **[[Fighter]] / [[Paladin]]:** Veteran, Warrior, Swordmaster, Hero, Swashbuckler, Myrmidon, Champion, Superhero, Lord (Lady).
 
-- **Thief:** Apprentice, Footpad, Robber, Burglar, Cutpurse, Sharper, Pilferer, Thief, Master Thief.
+- **[[Vault/Classes/Dimihuman Classes (Not Used)/Halfling|Halfling]]:** Halfling Veteran, Halfling Warrior, Halfling Swordmaster, Halfling Hero, Halfling Swashbuckler, Halfling Myrmidon, Halfling Champion, Sheriff.
+
+- **[[Magic-User]] / [[Illusionist]]:** Medium, Seer, Conjurer, Magician, Enchanter (Enchantress), Warlock (Witch), Sage, Scholar, Sorcerer (Sorceress), Necromancer, Wizard.
+
+- **[[Ranger]]:** Wanderer, Wilding, Hunter, Sojourner, Wayfarer, Preserver, Strider, Naturekin, Treewarden, Pathfinder.
+
+- **[[Thief]]  / [[Acrobat]] / [[Assassin]]:** Apprentice, Footpad, Robber, Burglar, Cutpurse, Sharper, Pilferer, Thief, Master Thief.
 
 # High-Level Play (Optional Rule)
 
-Human character classes are listed as having a maximum level of 14. This range of levels presents the best play experience regarding challenge and reward. However, some groups may wish to continue playing at extremely high levels. This must be considered carefully, as demihuman PCs will be left behind due to their strict level limits. If the referee allows continued play into higher levels, the following guidelines—allowing human characters to advance to a maximum of 36th level—may be used.
+Human character [[Classes]] are listed as having a maximum level of 14. This range of levels presents the best play experience regarding challenge and reward. However, some groups may wish to continue playing at extremely high levels. This must be considered carefully, as demihuman PCs will be left behind due to their strict level limits. If the referee allows continued play into higher levels, the following guidelines—allowing human characters to advance to a maximum of 36th level—may be used.
 
 ## Clerics, Druids, Bards
 
@@ -78,4 +84,4 @@ See [[Wealth]].
 
 # Hirelings
 
-See [[Hirelings]].
+See [[Retainers|Hirelings]].

@@ -2,10 +2,10 @@
 
 Allows an arcane spell caster to view any place or object that is brought to mind:
 
-- **Duration:** The vision lasts for one turn.
-- **Clarity** The clarity of the vision is dependent on the scryer’s familiarity with the subject.
+- **Duration:** The Vision lasts for one turn.
+- **Clarity** The clarity of the Vision is dependent on the scryer’s familiarity with the subject.
 - **Usage frequency:** A crystal ball may be used at most 3 times a day.
-- **Casting spells:** It is not possible to cast spells through a crystal ball into the viewed scene.
+- **Casting [[Spells]]:** It is not possible to cast Spells through a crystal ball into the viewed scene.
 
 ## Crystal Ball With Clairaudience
 

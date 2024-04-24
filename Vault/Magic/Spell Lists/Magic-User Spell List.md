@@ -95,7 +95,7 @@ If a spell can be reversed (see ***Spells***), the name of the reversed version 
 [[Magic Jar]]
 [[Pass-Wall]]
 [[Private Sanctum]]
-[[Stone Skin]]
+[[Stoneskin]]
 [[Telekinesis]]
 [[Teleport]]
 [[Transmute Rock to Mud (Mud to Rock)]]

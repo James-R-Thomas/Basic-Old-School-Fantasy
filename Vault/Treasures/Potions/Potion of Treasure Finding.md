@@ -6,4 +6,4 @@ Grants the ability to sense treasure.
 - **Direction and distance:** The character becomes aware of the direction and distance of treasure.
 - **Concentration:** The character must concentrate on sensing this information.
 - **Multiple hoards:** The largest treasure hoard within range is sensed.
-- **Obstructions:** The magic is blocked by lead.
+- **Obstructions:** The Magic is blocked by lead.

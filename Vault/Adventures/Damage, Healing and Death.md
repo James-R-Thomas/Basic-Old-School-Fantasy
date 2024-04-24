@@ -8,14 +8,14 @@ A character or monster reduced to 0 hit points or less is killed.
 
 ## Destruction of Items
 
-If a character is killed by a destructive spell or special attack (e.g., a *lightning bolt* spell or a dragon’s breath), their equipment is assumed to be destroyed.
+If a character is killed by a destructive spell or special attack (e.g., a *[[Lightning Bolt]]* spell or a dragon’s breath), their equipment is assumed to be destroyed.
 
 ### Destruction of Magic Items
 
 Magic items in the possession of a character who is killed by a destructive spell or special attack may be allowed a chance to survive, as follows:
 
 - **Save:** For each item, a saving throw may be made using the character’s saving throw values.
-- **Bonuses:** Items that grant a bonus in combat (e.g., magical weapons and armor) may also apply this bonus to the saving throw.
+- **Bonuses:** Items that grant a bonus in combat (e.g., magical [[Weapons and Armor]]) may also apply this bonus to the saving throw.
 
 ## Healing
 

@@ -16,9 +16,10 @@ Mercenaries can be located by posting notices of help wanted. The response will 
 
 ## Upkeep
 
-The monthly rate of pay includes food and essential gear. Most mercenaries already have weapons and armor when hired, though their employer may give them additional equipment. Armorers are required to repair mercenaries’ armor and weapons (see ***Specialists***).
+The monthly rate of pay includes food and essential gear. Most mercenaries already have weapons and armor when hired, though their employer may give them additional equipment. Armorers are required to repair mercenaries’ armor and weapons (see ***[[Specialists]]***).
 
-|                      | Wage per Month |        |       |       |      |      |        |
+-tx-
+|                      | | | Wage per Month |||||
 | :------------------- | :------------: | :----: | :---: | :---: | :--: | :--: | :----: |
 | Type                 |       AC       | Morale | Human | Dwarf | Elf  | Orc  | Goblin |
 | Archer               |     6 [13]     |   8    |  5gp  |   —   | 10gp | 3gp  |  2gp   |

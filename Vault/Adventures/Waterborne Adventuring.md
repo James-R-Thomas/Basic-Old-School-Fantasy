@@ -50,7 +50,7 @@ The distance traveled in a day may be affected by the prevailing water and weath
 
 **Chance:** The chance of encountering a wandering monster is 2-in-6 in oceans or rivers and 3-in-6 in swamps.
 
-**Distance:** Wandering monsters are encountered 4d6 × 10 yards away. If either side is surprised (see ***Encounters***), this is reduced to 1d4 × 10 yards.
+**Distance:** Wandering monsters are encountered 4d6 × 10 yards away. If either side is surprised (see ***[[Encounters]]***), this is reduced to 1d4 × 10 yards.
 
 **Location:** Aquatic encounters may occur on the open water or land, if the party docks at some point during the day.
 

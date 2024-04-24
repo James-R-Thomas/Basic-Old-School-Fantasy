@@ -41,7 +41,6 @@ If a spell can be reversed (see ***Spells***), the name of the reversed version 
 
 ## 3rd Level
 [[Continual Light (Continual Darkness)]]
-[[Cure Deafness]]
 [[Cure Disease]]
 [[Growth of Animal]]
 [[Locate Object]]
