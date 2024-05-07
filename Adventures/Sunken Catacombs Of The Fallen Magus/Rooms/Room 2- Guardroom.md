@@ -1,0 +1,5 @@
+> The room must have served as a guardroom. It seems frozen in time, as if the soldiers who once stood vigil here vanished without a trace. The walls, adorned with faded tapestries depicting battles long forgotten, seem to sag with the weight of neglect.
+> <br>Tarnished sconces, once holding torches that lit the room with a warm glow, now stand empty and lifeless.
+> <br>Rows of empty weapon racks line the walls, their iron hooks rusted from years of neglect. Broken and splintered wooden shields lean haphazardly against the walls, their heraldic symbols barely visible through the layers of grime. A toppled wooden table lies at the room's center, surrounded by worn and rickety chairs that seem to have collapsed under their own age.
+
+The weapons and armor are of no value. They are broken and rusty from years of exposure to the sand and weather.

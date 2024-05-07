@@ -1,0 +1,4 @@
+>This room appears to have been the kitchen. The air is thick with the lingering aroma of stale spices. The room is dimly lit by the occasional ray of sunlight that filters through cracked and dirty windows. Rows of dilapidated wooden tables and counters stretch across the room, covered in a layer of dust.
+><br>Broken dishes and shattered glassware lie scattered on the floor. The kitchen utensils, now rusty and forgotten, hang from hooks on the walls with large pots and pans as well. A large hearth stands at the northeast corner of the room, its massive iron cooking implements hanging above.
+
+There is no threat in this room nor are there any items of any value. Just debris and the various kitchen utensils, most of which are rusty or broken.

@@ -1,0 +1,4 @@
+>This room appears to be an ancient sanctuary, a space that seems untouched by the passage of time. The room is bathed in a soft, ethereal glow emanating from luminescent fungi clinging to the rough stone that forms the sanctuary's walls.
+><br>In the center of the sanctuary, a raised platform stands, its surface adorned with mystical symbols and intricate carvings. You see remnants of long-extinguished candles and offerings left behind by someone from ages past. Stone benches along the periphery suggest that this sanctuary once hosted gatherings of devout worshippers seeking solace and divine connection.
+
+There is nothing of value in this room.

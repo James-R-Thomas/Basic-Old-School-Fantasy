@@ -1,0 +1,4 @@
+> The air grows colder as you descend, and a sense of foreboding fills the underground passage. The passage widens as you continue downward, revealing a vast chamber adorned with crumbling statues of forgotten warriors and mysterious, faded murals depicting scenes of battles between ancient heroes and malevolent creatures. The sound of silence permeates through the chamber, creating an eerie ambiance that adds to the tension in the air.
+> <br>As you venture deeper into the room, the air becomes heavy with the scent of dust and decay, and the distant echoes of strange sounds make it clear that you are not alone.
+
+When the players investigate the area, they will find the remains of two people. They appear to be hired men as each is wearing leather armor and both have short swords. They are now rusty from the desert sand and are not worth anything. Nothing else of value is within this room.

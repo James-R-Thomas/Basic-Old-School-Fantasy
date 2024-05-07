@@ -1,0 +1,6 @@
+>Progressing through the cave's narrow corridor, the uneven surface presents a daunting challenge with its loose and slippery rocks. Each footfall echoes through the confined space. The dim lighting casts eerie shadows along the rugged walls, enhancing the feeling of isolation. The rocks beneath your feet shift unpredictably, demanding a cautious and deliberate gait to maintain balance.
+>As you continue down the hallway, a distinctive feature catches your attention – a section of the cave wall adorned with mold, casting a surreal yellowish glow. Its presence adds a touch of otherworldliness to the surroundings, contrasting with the natural ruggedness of the cave
+
+There is a patch of yellow mold on the wall. The mold can only be damaged by fire; a torch causes 1d4 points of damage each round. If the mold is touched--even by a torch--it may (50% chance per touch) release a cloud of spores measuring 10' × 10' × 10'; anyone within the area of the cloud suffers 1d6 points of damage and must make a successful Saving Throw vs. DeathRay or choke to death within 6 rounds.
+
+![[Yellow Mold]]

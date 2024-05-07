@@ -1,0 +1,4 @@
+>Entering the small cave chamber, an oppressive darkness envelops the space, devoid of any natural light. The air feels stagnant, carrying with it the weight of ages. A sparse scattering of stalagmites rises from the rocky floor, their jagged forms casting eerie shadows in the absence of light. The air is thick with the scent of damp earth, and the distant echoes of water droplets resonate through the silent chamber.
+><br>Amidst the darkness, remnants of a long forgotten time come into view. Very old and broken dwarven mining equipment lies strewn about, a testament to the once-bustling activity that echoed within these cavernous walls. Rusty pickaxes, shattered wooden supports, and fragments of worn-out lanterns speak of a long abandoned mining operation. The equipment, now silent and motionless, stands as a haunting reminder of the toil and labor that once defined this subterranean space.
+
+There is no threat in this room nor are there any items of any value.

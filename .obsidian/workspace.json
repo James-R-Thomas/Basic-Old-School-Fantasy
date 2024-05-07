@@ -11,11 +11,9 @@
             "id": "fbfc675a41d2079f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Vault/Magic/Spells/Slow Poison.md",
-                "mode": "source",
-                "source": true
+                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 220.50484466552734
   },
   "right": {
     "id": "cfa6257d0c86eb35",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Magic/Spells/Slow Poison.md",
+                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/Magic/Spells/Slow Poison.md",
+                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/Magic/Spells/Slow Poison.md"
+                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md"
               }
             }
           },
@@ -142,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +158,13 @@
   },
   "active": "804a3278a103ade0",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled",
+    "Adventures/Sunken Catacombs Of The Fallen Magus/Excalidraw/Sunken Catacombs Map.md",
+    "Adventures/Scourge of the Bone Hills/Adventure Start.md",
+    "008-01-001.ch1-splash.webp",
+    "000-00-001.intro-splash.webp",
     "Vault/Magic/Spells/Slow Poison.md",
+    "README.md",
     "Vault/Treasures/Weapons.md",
     "Vault/Treasures/Treasure Types.md",
     "Vault/Treasures/Swords.md",
@@ -182,9 +186,6 @@
     "Vault/Treasures/Extraordinary Power of Sentient Swords.md",
     "Vault/Treasures/Armor and Shields.md",
     "Vault/Treasures/Rods, Staves, Wands/Wand of trap Detection.md",
-    "Vault/Treasures/Rods, Staves, Wands/Wand of Secret Door Detection.md",
-    "Vault/Treasures/Rods, Staves, Wands/Wand of Polymorph.md",
-    "Vault/Treasures/Rods, Staves, Wands/Wand of Negation.md",
     "Navagation",
     "Vault",
     "Vault/Classes/Dimihuman Classes (Not Used)",
