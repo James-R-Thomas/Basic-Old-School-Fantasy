@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md"
+                "file": "Adventures/Sunken Catacombs Of The Fallen Magus/Excalidraw/Sunken Catacombs Map.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md",
+                "file": "Adventures/Sunken Catacombs Of The Fallen Magus/Excalidraw/Sunken Catacombs Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md",
+                "file": "Adventures/Sunken Catacombs Of The Fallen Magus/Excalidraw/Sunken Catacombs Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md"
+                "file": "Adventures/Sunken Catacombs Of The Fallen Magus/Excalidraw/Sunken Catacombs Map.md"
               }
             }
           },
@@ -156,10 +156,16 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "804a3278a103ade0",
+  "active": "fbfc675a41d2079f",
   "lastOpenFiles": [
-    "Untitled",
+    "Adventures/Sunken Catacombs Of The Fallen Magus/Excalidraw/SunkenCatacombsMap.jpg",
     "Adventures/Sunken Catacombs Of The Fallen Magus/Excalidraw/Sunken Catacombs Map.md",
+    "Adventures/Scourge of the Bone Hills/Excalidraw/Map DM.md",
+    "Adventures/Scourge of the Bone Hills/Excalidraw/Scourge of the Bone Hills.jpg",
+    "Adventures/Scourge of the Bone Hills/Scourge of the Bone Hills.jpg",
+    "11. Atchments/Pasted Image 20240508153802_036.jpg",
+    "11. Atchments",
+    "Untitled",
     "Adventures/Scourge of the Bone Hills/Adventure Start.md",
     "008-01-001.ch1-splash.webp",
     "000-00-001.intro-splash.webp",
@@ -185,7 +191,6 @@
     "Vault/Treasures/Gems and Jewelry.md",
     "Vault/Treasures/Extraordinary Power of Sentient Swords.md",
     "Vault/Treasures/Armor and Shields.md",
-    "Vault/Treasures/Rods, Staves, Wands/Wand of trap Detection.md",
     "Navagation",
     "Vault",
     "Vault/Classes/Dimihuman Classes (Not Used)",
@@ -196,12 +201,7 @@
     "OSE.Logo.White.png",
     "OSE.Logo.Black.png",
     "Open",
-    "11. Atchments",
-    "Fighter 2.webp",
-    "Druid Raise dead 1.jpg",
-    "Druid Raise dead.jpg",
     "Vault/Templates",
-    "Vault/Magic/Rules of Magic",
-    "Vault/Magic/Spell Lists"
+    "Vault/Magic/Rules of Magic"
   ]
 }
